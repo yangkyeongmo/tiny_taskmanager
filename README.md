@@ -1,10 +1,10 @@
 Tiny Task Manager(Linux only)
 =============================
 
-###How to use:
+### How to use:
 
 > bash main.sh
 
-###Example:
+### Example:
 
-![]run.gif
+![](run.gif)
